@@ -1,1 +1,10 @@
-# A repository containing all solutions for problems which I solved as while learning data structures and algorithms.
+# DSA
+| Topic      | Questions Solved |
+| ----------- | ----------- |
+| Stacks      | 2       |
+
+
+| Stacks      |
+| ----------- | ----------- |
+| 1      | Duplicate Brackets |
+| 2      | Balanced Brackets |
