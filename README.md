@@ -4,7 +4,7 @@
 | Stacks      | 2       |
 
 
-| Stacks      |
+| Stacks      | ----------- |
 | ----------- | ----------- |
 | 1      | Duplicate Brackets |
 | 2      | Balanced Brackets |
