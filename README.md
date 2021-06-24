@@ -14,11 +14,11 @@
 
 
 ## Today's Goal:
-1. Sliding Window Maximum Hard
-2. Infix Evaluation Easy
-3. Infix Conversions Easy
-4. Postfix Evaluation And Conversions Easy
-5. Prefix Evaluation And Conversions Easy
-6. Celebrity Problem Easy
-7. Merge Overlapping Interval Medium
-8. Smallest Number Following Pattern Easy
+1. Sliding Window Maximum
+2. Infix Evaluation 
+3. Infix Conversions 
+4. Postfix Evaluation And Conversions 
+5. Prefix Evaluation And Conversions 
+6. Celebrity Problem 
+7. Merge Overlapping Interval
+8. Smallest Number Following Pattern 
