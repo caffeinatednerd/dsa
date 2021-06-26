@@ -4,7 +4,7 @@
 | Stacks      | 5       |
 
 
-| Stacks      | ----------- | ----------- | Revision | ---- |
+| Stacks      | ----------- | ----------- | Revision | ---- | |
 | ----------- | ----------- | ----------- | ----------- | ---- |
 | 1  | [Duplicate Brackets](https://www.pepcoding.com/resources/online-java-foundation/stacks-and-queues/duplicate-brackets-official/ojquestion)   | [Solution](Stacks/1_duplicate_brackets.java)  | 2nd July   |
 | 2  | [Balanced Brackets](https://www.pepcoding.com/resources/online-java-foundation/stacks-and-queues/balanced-brackets-official/ojquestion)   | [Solution](Stacks/2_balanced_brackets.java)  | 2nd July   | ⭐   |
@@ -14,11 +14,12 @@
 | 6  | [Sliding Window Maximum](https://www.pepcoding.com/resources/online-java-foundation/stacks-and-queues/sliding-window=maximum-official/ojquestion)   | [Solution](Stacks/6_sliding_window_maximum.java)  | 3rd July   | ⭐   |
 | 7  | [Infix Evaluation](pepcoding.com/resources/online-java-foundation/stacks-and-queues/infix-evaluation-official/ojquestion)   | [Solution](Stacks/7_infix_evaluation.java)  | 3rd July   | ⭐   |
 | 8  | [Infix Conversions](https://www.pepcoding.com/resources/online-java-foundation/stacks-and-queues/infix-conversions-official/ojquestion)   | [Solution](Stacks/8_infix_conversions.java)  | 3rd July   |
+| 8  | [Postfix Evaluation and Conversions](https://www.pepcoding.com/resources/online-java-foundation/stacks-and-queues/postfix-evaluation-conversions-official/ojquestion)   | [Solution](Stacks/9_postfix_evaluation_and_conversions.java)  | 3rd July   |
 
 ## Today's Goal:
 1. Infix Evaluation - ✔️
 2. Infix Conversions - ✔️
-3. Postfix Evaluation And Conversions 
+3. Postfix Evaluation And Conversions - 
 4. Prefix Evaluation And Conversions 
 5. Celebrity Problem 
 6. Merge Overlapping Interval
