@@ -12,11 +12,12 @@
 | 4  | [Stock Span](https://www.pepcoding.com/resources/online-java-foundation/stacks-and-queues/stock-span-official/ojquestion)   | [Solution](Stacks/4_stock_span.java)  | 2nd July   |
 | 5  | [Largest Area Histogram](https://www.pepcoding.com/resources/online-java-foundation/stacks-and-queues/lah-official/ojquestion)   | [Solution](Stacks/5_largest_area_histogram.java)  | 2nd July   | ⭐   |
 | 6  | [Sliding Window Maximum](https://www.pepcoding.com/resources/online-java-foundation/stacks-and-queues/sliding-window=maximum-official/ojquestion)   | [Solution](Stacks/6_sliding_window_maximum.java)  | 3rd July   | ⭐   |
-| 7  | [Infix Evaluation](pepcoding.com/resources/online-java-foundation/stacks-and-queues/infix-evaluation-official/ojquestion)   | [Solution](Stacks/7_infix_evaluation.java)  | 4th July   | ⭐   |
+| 7  | [Infix Evaluation](pepcoding.com/resources/online-java-foundation/stacks-and-queues/infix-evaluation-official/ojquestion)   | [Solution](Stacks/7_infix_evaluation.java)  | 3rd July   | ⭐   |
+| 8  | [Infix Conversions](https://www.pepcoding.com/resources/online-java-foundation/stacks-and-queues/infix-conversions-official/ojquestion)   | [Solution](Stacks/8_infix_conversions.java)  | 3rd July   |
 
 ## Today's Goal:
 1. Infix Evaluation - ✔️
-2. Infix Conversions 
+2. Infix Conversions - ✔️
 3. Postfix Evaluation And Conversions 
 4. Prefix Evaluation And Conversions 
 5. Celebrity Problem 
