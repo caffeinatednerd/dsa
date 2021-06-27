@@ -1,7 +1,7 @@
 # DSA - Level 1
 | Topic      | Questions Solved |
 | ----------- | ----------- |
-| Stacks      | 11       |
+| Stacks      | 12       |
 
 
 | S.No.| Question | ------- | Revision | ---- |
@@ -17,7 +17,7 @@
 | 9  | [Postfix Evaluation and Conversions](https://www.pepcoding.com/resources/online-java-foundation/stacks-and-queues/postfix-evaluation-conversions-official/ojquestion)   | [Solution](Stacks/9_postfix_evaluation_and_conversions.java)  | 3rd July   |
 | 10  | [Prefix Evaluation and Conversions](https://www.pepcoding.com/resources/online-java-foundation/stacks-and-queues/prefix-official/ojquestion)   | [Solution](Stacks/10_prefix_evaluation_and_conversions.java)  | 3rd July   |
 | 11  | [Celebrity Problem](https://www.pepcoding.com/resources/online-java-foundation/stacks-and-queues/celebrity-problem-official/ojquestion)   | [Solution](Stacks/11_celebrity_problem.java)  | 3rd July   | ⭐⭐ (Microsoft) | 
-| 11  | [Merge Overlapping Intervals](https://www.pepcoding.com/resources/online-java-foundation/stacks-and-queues/merge-overlapping-interval-official/ojquestion)   | [Solution](Stacks/12_merge_overlapping_intervals.java)  | 3rd July   | ⭐ |
+| 12  | [Merge Overlapping Intervals](https://www.pepcoding.com/resources/online-java-foundation/stacks-and-queues/merge-overlapping-interval-official/ojquestion)   | [Solution](Stacks/12_merge_overlapping_intervals.java)  | 4th July   | ⭐ |
 
 ## Today's Goal:
 1. Infix Evaluation - ✔️
@@ -25,5 +25,5 @@
 3. Postfix Evaluation And Conversions - ✔️
 4. Prefix Evaluation And Conversions - ✔️
 5. Celebrity Problem - ✔️
-6. Merge Overlapping Interval - 
+6. Merge Overlapping Interval - ✔️
 7. Smallest Number Following Pattern 
