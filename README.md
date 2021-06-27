@@ -1,7 +1,7 @@
 # DSA - Level 1
 | Topic      | Questions Solved |
 | ----------- | ----------- |
-| Stacks      | 12       |
+| Stacks      | 16       |
 
 
 | S.No.| Question | ------- | Revision | ---- |
@@ -18,8 +18,10 @@
 | 10  | [Prefix Evaluation and Conversions](https://www.pepcoding.com/resources/online-java-foundation/stacks-and-queues/prefix-official/ojquestion)   | [Solution](Stacks/10_prefix_evaluation_and_conversions.java)  | 3rd July   |
 | 11  | [Celebrity Problem](https://www.pepcoding.com/resources/online-java-foundation/stacks-and-queues/celebrity-problem-official/ojquestion)   | [Solution](Stacks/11_celebrity_problem.java)  | 3rd July   | ⭐⭐ (Microsoft) | 
 | 12  | [Merge Overlapping Intervals](https://www.pepcoding.com/resources/online-java-foundation/stacks-and-queues/merge-overlapping-interval-official/ojquestion)   | [Solution](Stacks/12_merge_overlapping_intervals.java)  | 4th July   | ⭐ |
-| 13  | [Smallest Number Following Pattern](https://www.pepcoding.com/resources/online-java-foundation/stacks-and-queues/smallest-number-following-pattern-official/ojquestion)   | [Solution](Stacks/13_smallest_number_following_pattern.java)  | 4th July   | ⭐ (Easy but Tricky, Interview) |
+| 13  | [Smallest Number Following Pattern](https://www.pepcoding.com/resources/online-java-foundation/stacks-and-queues/smallest-number-following-pattern-official/ojquestion)   | [Solution](Stacks/13_smallest_number_following_pattern.java)  | 4th July   | ⭐⭐ (Easy but Tricky, Interview) |
+| 14  | [Normal Stack](https://www.pepcoding.com/resources/online-java-foundation/stacks-and-queues/normal-stack-official/ojquestion)   | [Solution](Stacks/14_normal_stack.java)  | 4th July  |
+| 15  | [Dynamic Stack](https://www.pepcoding.com/resources/online-java-foundation/stacks-and-queues/dynamic-stack-official/ojquestion)   | [Solution](Stacks/15_dynamic_stack.java)  | 4th July  |
+| 16  | [Minimum Stack - I](https://www.pepcoding.com/resources/online-java-foundation/stacks-and-queues/minimum-stack-i-official/ojquestion)   | [Solution](Stacks/16_min_stack-1.java)  | 4th July  | Requires a minStack to maintain minimum value (variable cannot maintain min value after pop) |
 
 ## Today's Goal:
-1. One Lecture + Some More - ✔️
-<!-- 1. Two Lectures - 6 Questions at least -->
+1. Two Lectures - 7 Questions + 1 Bonus
