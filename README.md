@@ -16,7 +16,7 @@
 | 8  | [Infix Conversions](https://www.pepcoding.com/resources/online-java-foundation/stacks-and-queues/infix-conversions-official/ojquestion)   | [Solution](Stacks/8_infix_conversions.java)  | 3rd July   |
 | 9  | [Postfix Evaluation and Conversions](https://www.pepcoding.com/resources/online-java-foundation/stacks-and-queues/postfix-evaluation-conversions-official/ojquestion)   | [Solution](Stacks/9_postfix_evaluation_and_conversions.java)  | 3rd July   |
 | 10  | [Prefix Evaluation and Conversions](https://www.pepcoding.com/resources/online-java-foundation/stacks-and-queues/prefix-official/ojquestion)   | [Solution](Stacks/10_prefix_evaluation_and_conversions.java)  | 3rd July   |
-| 11  | [Celebrity Problem](https://www.pepcoding.com/resources/online-java-foundation/stacks-and-queues/celebrity-problem-official/ojquestion)   | [Solution](Stacks/11_celebrity_problem.java)  | 3rd July   | ⭐ |  Elimination Method - <br> 1. Push all elements in stack <br> 2. Pop 2 elements in every iteration till stack size > 1 and check if they can be candidates <br> 3. For last element remaining (potential celebrity), check if all rows contain 0 and all columns contain 1 (except row itself) |
+| 11  | [Celebrity Problem](https://www.pepcoding.com/resources/online-java-foundation/stacks-and-queues/celebrity-problem-official/ojquestion)   | [Solution](Stacks/11_celebrity_problem.java)  | 3rd July   | ⭐ |  Elimination Method - <br> - Push all elements in stack <br> - Pop 2 elements in every iteration till stack size > 1 and check if they can be candidates <br> - For last element remaining (potential celebrity), check if all rows contain 0 and all columns contain 1 (except row itself) |
 
 ## Today's Goal:
 1. Infix Evaluation - ✔️
