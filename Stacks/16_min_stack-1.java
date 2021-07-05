@@ -6,7 +6,7 @@ public class Main {
   public static class MinStack {
     Stack<Integer> allData;
     Stack<Integer> minData;
-    int minVal;
+    // int minVal;
 
     public MinStack() {
       allData = new Stack<>();

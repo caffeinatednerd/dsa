@@ -1,7 +1,14 @@
+## Today's Target - 7 + 1 (chocolate problem)
+<!-- ## Questions Done Today -  -->
+
+## Yesterday's Target - 7 + 1 (chocolate problem)
+## Question's Done Yesterday - 5
+## Missed by 2
+
 # DSA - Level 1
 | Topic      | Questions Solved |
 | ----------- | ----------- |
-| Stacks      | 16       |
+| Stacks      | 17       |
 
 
 | S.No.| Question | ------- | Revision | ---- |
@@ -22,6 +29,17 @@
 | 14  | [Normal Stack](https://www.pepcoding.com/resources/online-java-foundation/stacks-and-queues/normal-stack-official/ojquestion)   | [Solution](Stacks/14_normal_stack.java)  | 4th July  |
 | 15  | [Dynamic Stack](https://www.pepcoding.com/resources/online-java-foundation/stacks-and-queues/dynamic-stack-official/ojquestion)   | [Solution](Stacks/15_dynamic_stack.java)  | 4th July  |
 | 16  | [Minimum Stack - I](https://www.pepcoding.com/resources/online-java-foundation/stacks-and-queues/minimum-stack-i-official/ojquestion)   | [Solution](Stacks/16_min_stack-1.java)  | 4th July  | Requires a minStack to maintain minimum value (variable cannot maintain min value after pop) |
+| 17  | [Minimum Stack - II O(1)](https://www.pepcoding.com/resources/online-java-foundation/stacks-and-queues/min-stack-ii-official/ojquestion)   | [Solution](Stacks/17_min_stack_O1_space.java)  | 12th July  | Uses a single variable to achieve the solution 16 (uses val + val - min trick) |
 
-## Today's Goal:
-1. Two Lectures - 7 Questions + 1 Bonus
+
+| Topic      | Questions Solved |
+| ---------- | ---------------- |
+| Queues     | 4                |
+
+
+| S.No.| Question | ------- | Revision | ---- |
+| ---- | -------- | ------- | -------- | ---- |
+| 1  | [Generate Binary Numbers](https://practice.geeksforgeeks.org/problems/generate-binary-numbers-1587115620/1)   | [Solution](Queues/1_gfg_generate_binary_numbers.java)  | 12th July  | Give it a quick look (short and tricky) |
+| 2  | [Normal Stack - Replicate using Array](https://www.pepcoding.com/resources/online-java-foundation/stacks-and-queues/normal-queue-official/ojquestion#)   | [Solution](Queues/2_normal_queue.java)  | 12th July  | Hard |
+| 3  | [Dynamic Stack - Increase Size Dynamically]()   | [Solution](Queues/3_dynamic_queue.java)  | 12th July  | Similar to above with size change - ⭐ |
+| 4  | [Queue To Stack Adapter - Push Efficient](https://www.pepcoding.com/resources/online-java-foundation/stacks-and-queues/queue-to-stack-adapter-push-efficient-official/ojquestion)   | [Solution](Queues/4_queue_to_stack-push_efficient.java)  | 12th July  | Uses 2 stack to implement a queue - Easy |
