@@ -55,11 +55,12 @@
 
 | Topic      | Questions Solved |
 | ---------- | ---------------- |
-| LinkedList | 2                |
+| LinkedList | 3                |
 
 
 | S.No.| Question | ------- | Revision | ---- |
 | ---- | -------- | ------- | -------- | ---- |
 | 1    | [Add Last In Linked List](https://www.pepcoding.com/resources/online-java-foundation/linked-lists/add-last-linked-list-official/ojquestion)   | [Solution](LinkedLists/1_Add_Last_In_LinkedList.java)  |  |  |
 | 2    | [Display A Linkedlist](https://www.pepcoding.com/resources/online-java-foundation/linked-lists/display-linked-list-official/ojquestion)   | [Solution](LinkedLists/2_Display_A_Linkedlist.java)  |  |  |
+| 3    | [Remove First In Linkedlist](https://www.pepcoding.com/resources/online-java-foundation/linked-lists/remove-first-linked-list-official/ojquestion)   | [Solution](LinkedLists/3_Remove_First_In_Linkedlist.java)  |  |  |
 

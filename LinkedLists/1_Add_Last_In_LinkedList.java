@@ -21,7 +21,7 @@ public class Main {
         n.next = null;
         
         if(size == 0) { 
-            // point head and tail to the new node
+            // point head and tail to the new node as head and tail both are at 1
             head = n;
             tail = n;
         } else {
