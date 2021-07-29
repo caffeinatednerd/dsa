@@ -5,11 +5,6 @@ public class Main {
   public static class Node {
     int data;
     Node next;
-    
-    Node(int val) {
-        data = val;
-        next = null;
-    }
   }
 
   public static class LinkedList {
@@ -19,13 +14,24 @@ public class Main {
 
     void addLast(int val) {
         // create a new node with given value
-        Node n = new Node(val);
-        // update currentLast's address with new Node's address
-        tail = n;
+        Node n = new Node();
+        // add data to new node
+        n.data = val;
+        // initialise next as null by default (not necessary as java does the same)
+        n.next = null;
+        
+        if(size == 0) { 
+            // point head and tail to the new node
+            head = n;
+            tail = n;
+        } else {
+            // update current tail to to point to new Node's address
+            tail.next = n;
+            // update tail to point to new node
+            tail = n;
+        }       
         // increase size of LL by 1
         size++;
-        // print the last added element (as per question requirement)
-        System.out.println(val);
     }
   }
 
