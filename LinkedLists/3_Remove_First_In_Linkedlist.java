@@ -43,14 +43,15 @@ public class Main {
             System.out.println("List is empty");
         }
         else if(size == 1) {
-            head = null;
-            tail = null;
+            head = tail = null;
             size--;
         } else {
             // point head to head.next
             head = head.next;
             // decrease size by 1
             size--;
+
+            // NOTE: Garbage collector will automatically remove unpointed node after some point
         }
     }
   }
