@@ -98,35 +98,49 @@ public class Main {
     }
 
     public void addAt(int idx, int val){
-        if(idx < 0 || idx > size) {
-           System.out.println("Invalid arguments");
+      if(idx < 0 || idx > size){
+        System.out.println("Invalid arguments");
+      } else if(idx == 0){
+        addFirst(val);
+      } else if(idx == size){
+        addLast(val);
+      } else {
+        Node node = new Node();
+        node.data = val;
+
+        Node temp = head;
+        for(int i = 0; i < idx - 1; i++){
+          temp = temp.next;
         }
-        else if(idx == 0) {
-            addFirst(val);
-        }
-        else if(idx == size) {
-            addLast(val);
-        }
-        else {
-          // Reach till the node after which new node is to be added
+        node.next = temp.next;
+
+        temp.next = node;
+        size++;
+      }
+    }
+
+    public void removeLast(){
+      if(size == 0)
+          System.out.println("List is empty");
+      else if(size == 1) {
+          head = tail = null;
+          size--;
+      }
+      else {
           Node curNode = head;
-          for(int i=0; i<idx-1; i++) {
+          // reach till 2nd last node 
+          //   **** size-2 to be noted
+          for(int i=0; i<size-2; i++) {
               curNode = curNode.next;
           }
           
-          // reached at the index after which the node is to be added
-          // so add new node after curNode
-          
-          // Initialise new node
-          Node n = new Node();
-          n.data = val;
-          // point n.next as the current curNode.next
-          n.next = curNode.next;
-          // update curNode.next as n's address;
-          curNode.next = n;
-          // increase size by 1
-          size++;
-        }
+          // set curNode.next as null
+          curNode.next = null;
+          // Update tail as curNode
+          tail = curNode;
+          // decrease size by 1
+          size--;    
+      }
     }
   }
 
@@ -168,6 +182,8 @@ public class Main {
         int idx = Integer.parseInt(str.split(" ")[1]);
         int val = Integer.parseInt(str.split(" ")[2]);
         list.addAt(idx, val);
+      } else if (str.startsWith("removeLast")) {
+        list.removeLast();
       } 
       str = br.readLine();
     }

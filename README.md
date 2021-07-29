@@ -55,7 +55,7 @@
 
 | Topic      | Questions Solved |
 | ---------- | ---------------- |
-| LinkedList | 6                |
+| LinkedList | 8                |
 
 
 | S.No.| Question | ------- | Revision | ---- |
@@ -66,4 +66,6 @@
 | 4    | [Get Value In Linked List](https://www.pepcoding.com/resources/online-java-foundation/linked-lists/get-in-linked-list-official/ojquestion)   | [Solution](LinkedLists/4_Get_Value_In_Linked_List.java)  |  |  |
 | 5    | [Add First In Linked List](https://www.pepcoding.com/resources/online-java-foundation/linked-lists/add-first-in-linked-list-official/ojquestion)   | [Solution](LinkedLists/5_Add_First_In_Linked_List.java)  |  |  |
 | 6    | [Add At Index In Linked List](https://www.pepcoding.com/resources/online-java-foundation/linked-lists/add-at-index-in-linked-list-official/ojquestion)   | [Solution](LinkedLists/6_Add_At_Index_In_Linked_List.java)  |  |  |
+| 7    | [Remove Last In Linked List](https://www.pepcoding.com/resources/online-java-foundation/linked-lists/remove-last-in-linked-list/ojquestion)   | [Solution](LinkedLists/7_Remove_Last_In_Linked_List.java)  |  |  |
+| 8    | [Remove At Index In Linked List](https://www.pepcoding.com/resources/online-java-foundation/linked-lists/remove-at-linked-list-official/ojquestion)   | [Solution](LinkedLists/8_Remove_At_Index_In_Linked_List.java)  |  |  |
 
