@@ -68,4 +68,31 @@
 | 6    | [Add At Index In Linked List](https://www.pepcoding.com/resources/online-java-foundation/linked-lists/add-at-index-in-linked-list-official/ojquestion)   | [Solution](LinkedLists/6_Add_At_Index_In_Linked_List.java)  |  |  |
 | 7    | [Remove Last In Linked List](https://www.pepcoding.com/resources/online-java-foundation/linked-lists/remove-last-in-linked-list/ojquestion)   | [Solution](LinkedLists/7_Remove_Last_In_Linked_List.java)  |  |  |
 | 8    | [Remove At Index In Linked List](https://www.pepcoding.com/resources/online-java-foundation/linked-lists/remove-at-linked-list-official/ojquestion)   | [Solution](LinkedLists/8_Remove_At_Index_In_Linked_List.java)  |  |  |
+| 9    | [Reverse A Linked List (data Iterative)](https://www.pepcoding.com/resources/online-java-foundation/linked-lists/reverse-di-official/ojquestion)   | [Solution](LinkedLists/9_Reverse_A_Linked_List_data_Iterative.java)  |  |  |
+| 10    | [Reverse Linked List (pointer Iterative)](https://www.pepcoding.com/resources/online-java-foundation/linked-lists/reverse-pi-official/ojquestion)   | [Solution](LinkedLists/10_Reverse_Linked_List_pointer_Iterative.java)  |  |  |
+| 24    | [Fold A Linked List](https://www.pepcoding.com/resources/online-java-foundation/linked-lists/fold-linkedlist-official/ojquestion)   | [Solution](LinkedLists/24_Fold_A_Linked_List.java)  |  |  |
+| 25    | [Add Two Linked Lists](https://www.pepcoding.com/resources/online-java-foundation/linked-lists/add-two-linkedlists-official/ojquestion)   | [Solution](LinkedLists/25_Add_Two_Linked_Lists)  |  |  ⭐⭐⭐ |
+| 26    | []()   | [Solution](LinkedLists/26_)  |  |  ⭐⭐⭐ |
+
+
+
+
+| Topic         | Questions Solved |
+| ------------  | ---------------- |
+| Generic Tress | 9                |
+
+
+| S.No.| Question | Sol. | Revision | My Rating |
+| ---- | -------- | ---- | -------- | --------- |
+| 1    | Basic Generic Tree Construction and Display (using recursion) | [Solution](GenericTrees/1_Basic_Generic_Tree_Construction_and_Display.java)  |  |  |
+| 2    | [Size Of Generic Tree](https://www.pepcoding.com/resources/online-java-foundation/generic-tree/size-generic-tree-official/ojquestion) | [Solution](GenericTrees/2_Size_Of_Generic_Tree.java)  |  |  |
+| 3    | [Maximum In A Generic Tree](https://www.pepcoding.com/resources/online-java-foundation/generic-tree/max-generic-tree-official/ojquestion) | [Solution](GenericTrees/3_Maximum_In_A_Generic_Tree.java)  |  |  |
+| 4    | [Height Of A Generic Tree](https://www.pepcoding.com/resources/online-java-foundation/generic-tree/height-of-generic-tree-official/ojquestion) | [Solution](GenericTrees/4_Height_Of_A_Generic_Tree.java)  |  | * |
+| 5    | [Generic Tree - Traversals (pre-order, Post-order)](https://www.pepcoding.com/resources/online-java-foundation/generic-tree/generic-tree-traversal-official/ojquestion) | [Solution](GenericTrees/5_Generic_Tree-Traversals_pre-order_&_post-order.java)  |  |  |
+| 6    | [Level-order Of Generic Tree](https://www.pepcoding.com/resources/online-java-foundation/generic-tree/level-order-generic-tree-official/ojquestion) | [Solution](GenericTrees/6_Level-order_Of_Generic_Tree.java)  |  | Uses queue to keep track of children - Horizontally |
+| 7    | [Levelorder Linewise (generic Tree)](https://www.pepcoding.com/resources/online-java-foundation/generic-tree/levelorder-linewise-generic-tree-official/ojquestion) | [Solution](GenericTrees/7_Levelorder_Linewise_generic_Tree.java)  |  | TODO - (⭐⭐⭐) 3 Different Approached in solution - Based on above solution with a check on current level elements |
+| 8    | [Levelorder Linewise Zig Zag]() | [Solution](GenericTrees/)  |  | ** (Practice - Unable to do it) |
+| 9    | [Mirror A Generic Tree](https://www.pepcoding.com/resources/online-java-foundation/generic-tree/mirror-generic-tree-official/ojquestion) | [Solution](GenericTrees/8_Mirror_A_Generic_Tree.java)  | Uses Stack to reverse order | * |
+| 10   | [Remove Leaves In Generic Tree](https://www.pepcoding.com/resources/online-java-foundation/generic-tree/remove-leaves-generic-tree-official/ojquestion) | [Solution](GenericTrees/9_Remove_Leaves_In_Generic_Tree.java)  | Area of calling recusrsion matters, else removed leaves will make their parent a leaf as well |  |
+| 11   | [Linearize A Generic Tree](https://www.pepcoding.com/resources/online-java-foundation/generic-tree/linearize-generic-tree-official/ojquestion) | [Solution](GenericTrees/10_Linearize_A_Generic_Tree.java)  | Must | ** |
 
