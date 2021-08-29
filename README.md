@@ -1,9 +1,4 @@
-## Today's Target - 7 + 1 (chocolate problem)
 <!-- ## Questions Done Today -  -->
-
-## Yesterday's Target - 7 + 1 (chocolate problem)
-## Question's Done Yesterday - 5
-## Missed by 2
 
 # DSA - Level 1
 | Topic      | Questions Solved |
@@ -55,7 +50,7 @@
 
 | Topic      | Questions Solved |
 | ---------- | ---------------- |
-| LinkedList | 8                |
+| LinkedList | -                |
 
 
 | S.No.| Question | ------- | Revision | ---- |
@@ -79,7 +74,7 @@
 
 | Topic         | Questions Solved |
 | ------------  | ---------------- |
-| Generic Tress | 9                |
+| Generic Tress | 23                |
 
 
 | S.No.| Question | Sol. | Revision | My Rating |
@@ -95,4 +90,14 @@
 | 9    | [Mirror A Generic Tree](https://www.pepcoding.com/resources/online-java-foundation/generic-tree/mirror-generic-tree-official/ojquestion) | [Solution](GenericTrees/8_Mirror_A_Generic_Tree.java)  | Uses Stack to reverse order | * |
 | 10   | [Remove Leaves In Generic Tree](https://www.pepcoding.com/resources/online-java-foundation/generic-tree/remove-leaves-generic-tree-official/ojquestion) | [Solution](GenericTrees/9_Remove_Leaves_In_Generic_Tree.java)  | Area of calling recusrsion matters, else removed leaves will make their parent a leaf as well |  |
 | 11   | [Linearize A Generic Tree](https://www.pepcoding.com/resources/online-java-foundation/generic-tree/linearize-generic-tree-official/ojquestion) | [Solution](GenericTrees/10_Linearize_A_Generic_Tree.java)  | Must | ** |
+| 12   | [Find In Generic Tree](https://www.pepcoding.com/resources/online-java-foundation/generic-tree/find-in-tree-official/ojquestion) | [Solution](GenericTrees/11_Find_In_Generic_Tree.java)  |  |  |
+| 13   | [Node To Root Path In Generic Tree](https://www.pepcoding.com/resources/online-java-foundation/generic-tree/node-to-root-path-official/ojquestion) | [Solution](GenericTrees/12_Node_To_Root_Path.java)  |  |  |
+| 14   | [Lowest Common Ancestor (generic Tree)](https://www.pepcoding.com/resources/online-java-foundation/generic-tree/lca-generic-tree-official/ojquestion) | [Solution](GenericTrees/13_Lowest_Common_Ancestor.java)  |  |  |
+| 18   | [Predecessor And Successor Of An Element](https://www.pepcoding.com/resources/online-java-foundation/generic-tree/pred-succ-generic-tree-official/ojquestion) | [Solution](GenericTrees/18_Predecessor_And_Successor_Of_An_Element.java)  | Travel and Change begins (use of static variables globally) | Uses state(0, 1, 2) variable to keep track of IsFound |
+| 19   | [Ceil And Floor In Generic Tree](https://www.pepcoding.com/resources/online-java-foundation/generic-tree/ceil-and-floor-official/ojquestion) | [Solution](GenericTrees/19_Ceil_And_Floor_In_Generic_Tree.java)  | |  |
+| 20   | [Kth Largest Element In Tree](https://www.pepcoding.com/resources/online-java-foundation/generic-tree/kth-largest-element-generic-tree-official/ojquestion) | [Solution](GenericTrees\20_Kth_Largest_Element_In_Tree.java)  | |  |
+| 21   | [Node With Maximum Subtree Sum](https://www.pepcoding.com/resources/online-java-foundation/generic-tree/node-with-maximum-subtree-sum-official/ojquestion) | [Solution](GenericTrees\21_Node_With_Maximum_Subtree_Sum.java)  | Revise (Unable to do it) - Uses concept of returning something else and calculating something else | ** |
+| 22   | [Diameter Of Generic Tree](https://www.pepcoding.com/resources/online-java-foundation/generic-tree/diameter-of-generic-tree-official/ojquestion) | [Solution](GenericTrees\22_Diameter_Of_Generic_Tree.java)  | Revise (Unable to do it) - Uses concept of returning something else and calculating something else | ** |
+| 23   | [Iterative Preorder And Postorder Of Generic Tree](https://www.pepcoding.com/resources/online-java-foundation/generic-tree/iterative-preorder-postorder-generic-tree-official/ojquestion) | [Solution](GenericTrees\23_Iterative_Preorder_And_Postorder_Of_Generic_Tree.java)  | Revise (Unable to do it) | *** |
+
 
