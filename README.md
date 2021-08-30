@@ -74,7 +74,7 @@
 
 | Topic         | Questions Solved |
 | ------------  | ---------------- |
-| Generic Tress | 23                |
+| Generic Tree  | 23                |
 
 
 | S.No.| Question | Sol. | Revision | My Rating |
@@ -101,3 +101,11 @@
 | 23   | [Iterative Preorder And Postorder Of Generic Tree](https://www.pepcoding.com/resources/online-java-foundation/generic-tree/iterative-preorder-postorder-generic-tree-official/ojquestion) | [Solution](GenericTrees\23_Iterative_Preorder_And_Postorder_Of_Generic_Tree.java)  | Revise (Unable to do it) | *** |
 
 
+| Topic         | Questions Solved |
+| ------------  | ---------------- |
+| Binary Tree   | 0                |
+
+
+| S.No.| Question | Sol. | Revision | My Rating |
+| ---- | -------- | ---- | -------- | --------- |
+| 1    |  | [Solution]()  |  |  |
